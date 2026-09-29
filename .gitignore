@@ -1,0 +1,26 @@
+# Secrets
+secrets.h
+
+# Build files
+build/
+cmake-build-*/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
