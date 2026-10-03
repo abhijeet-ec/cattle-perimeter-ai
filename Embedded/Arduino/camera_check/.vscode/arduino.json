@@ -1,0 +1,6 @@
+{
+    "sketch": "camera_check.ino",
+    "board": "esp32:esp32:esp32cam",
+    "port": "/dev/ttyUSB0",
+    "output": "../build"
+}

@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "ESP32",
+            "compilerPath": "/usr/bin/g++",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/abh1/.arduino15/packages/esp32/hardware/esp32/3.3.11/cores/esp32",
+                "/home/abh1/.arduino15/packages/esp32/hardware/esp32/3.3.11/variants/esp32cam",
+                "/home/abh1/.arduino15/packages/esp32/tools/esp32-libs/3.3.11/include/espressif__esp32-camera/driver/include"
+            ]
+        }
+    ],
+    "version": 4
+}
